@@ -100,7 +100,7 @@ fun CardPreView() {
             CardItem(
                 source = "https://picsum.photos/400/",
                 title = "wall",
-                desc = "반갑습니다."
+                desc = "반갑습니다!!"
             )
         )
     }
